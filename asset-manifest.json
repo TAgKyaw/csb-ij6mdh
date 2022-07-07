@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://tagkyaw.github.io/csb-ij6mdh/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://tagkyaw.github.io/csb-ij6mdh/static/js/main.41d25122.chunk.js",
+    "main.js.map": "https://tagkyaw.github.io/csb-ij6mdh/static/js/main.41d25122.chunk.js.map",
+    "runtime-main.js": "https://tagkyaw.github.io/csb-ij6mdh/static/js/runtime-main.80f83ffd.js",
+    "runtime-main.js.map": "https://tagkyaw.github.io/csb-ij6mdh/static/js/runtime-main.80f83ffd.js.map",
+    "static/js/2.6ce2bb51.chunk.js": "https://tagkyaw.github.io/csb-ij6mdh/static/js/2.6ce2bb51.chunk.js",
+    "static/js/2.6ce2bb51.chunk.js.map": "https://tagkyaw.github.io/csb-ij6mdh/static/js/2.6ce2bb51.chunk.js.map",
+    "index.html": "https://tagkyaw.github.io/csb-ij6mdh/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://tagkyaw.github.io/csb-ij6mdh/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.6ce2bb51.chunk.js.LICENSE.txt": "https://tagkyaw.github.io/csb-ij6mdh/static/js/2.6ce2bb51.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80f83ffd.js",
+    "static/js/2.6ce2bb51.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.41d25122.chunk.js"
+  ]
+}

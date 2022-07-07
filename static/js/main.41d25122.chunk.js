@@ -1,0 +1,2 @@
+(this["webpackJsonpzesty-photo-app"]=this["webpackJsonpzesty-photo-app"]||[]).push([[0],{12:function(e,t,c){},14:function(e,t,c){"use strict";c.r(t);var o=c(1),n=c(3),s=(c(12),c(0)),i=function(){return Object(s.jsxs)("div",{className:"App",children:[Object(s.jsx)("h1",{children:"Hello CodeSandbox"}),Object(s.jsx)("h2",{children:"Start editing to see some magic happen!"})]})},p=document.getElementById("root");Object(n.createRoot)(p).render(Object(s.jsx)(o.StrictMode,{children:Object(s.jsx)(i,{})}))}},[[14,1,2]]]);
+//# sourceMappingURL=main.41d25122.chunk.js.map
